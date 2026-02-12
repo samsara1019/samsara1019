@@ -2,4 +2,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=samsara1019&theme=dark&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=samsara1019)
